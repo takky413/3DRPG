@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e695da6ffd1df9444a0477cc892e9ce5, type: 3}
+  m_Name: UnityChanStatus
+  m_EditorClassIdentifier: 
+  characterName: "\u30E6\u30CB\u30C6\u30A3\u3061\u3083\u3093"
+  isPoisonState: 0
+  isNumbnessState: 0
+  level: 1
+  maxHp: 100
+  hp: 100
+  maxMp: 50
+  mp: 50
+  agility: 5
+  power: 10
+  strikingStrength: 10
+  magicPower: 10
+  earnedExperience: 0
+  equipWeapon: {fileID: 11400000, guid: 0d9ca6f9eaeb3d14dbcdb41ce2b2ee73, type: 2}
+  equipArmor: {fileID: 11400000, guid: 7557e01cf01872a4486a43cd8baea4be, type: 2}
+  itemDictionary:
+    m_keys:
+    - {fileID: 11400000, guid: 0d9ca6f9eaeb3d14dbcdb41ce2b2ee73, type: 2}
+    - {fileID: 11400000, guid: 4fa14ddc51dff6b46a4a9482e9996bb2, type: 2}
+    - {fileID: 11400000, guid: 014858317e52cdb4aa193400638f433a, type: 2}
+    - {fileID: 11400000, guid: 93d2be1c6dc65044c8f58e68e1df26fd, type: 2}
+    - {fileID: 11400000, guid: b220c356493414e4fbb3223f514a52a3, type: 2}
+    - {fileID: 11400000, guid: cb64b23be82f2e342a59a412bf2a5656, type: 2}
+    - {fileID: 11400000, guid: 399ca35c457c33b4fa0650b784a32e1f, type: 2}
+    - {fileID: 11400000, guid: f9bc50e2208402a48b7c8bbc276cf4e4, type: 2}
+    - {fileID: 11400000, guid: 7557e01cf01872a4486a43cd8baea4be, type: 2}
+    - {fileID: 11400000, guid: a0111ac8796a6df40a1e414005b061c0, type: 2}
+    - {fileID: 11400000, guid: c72aa6b7a1584fc4ca3c203b5720f9d6, type: 2}
+    - {fileID: 11400000, guid: 7df443f9f0f057149b40e007791ead99, type: 2}
+    - {fileID: 11400000, guid: 0e53b39502084dd458ac9f3bfa397510, type: 2}
+    - {fileID: 11400000, guid: 6695bd8c88199114f9dc5f512733f4a9, type: 2}
+    - {fileID: 11400000, guid: c042dd4e47c52004e8d79ca9979f0668, type: 2}
+    - {fileID: 11400000, guid: 9a9520471de875041b668200cf0b96f5, type: 2}
+    m_values: 01000000010000000100000001000000050000000500000005000000050000000100000001000000010000000100000001000000010000000100000001000000

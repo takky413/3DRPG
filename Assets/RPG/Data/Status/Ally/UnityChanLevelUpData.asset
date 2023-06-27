@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f2d36669ba15674d8f744b96acabfc8, type: 3}
+  m_Name: UnityChanLevelUpData
+  m_EditorClassIdentifier: 
+  requiredExperience:
+    m_keys: 0100000002000000030000000400000005000000060000000700000008000000090000000a000000
+    m_values: 0000000064000000c80000002c01000090010000f401000058020000bc0200002003000084030000
+  probabilityToIncreaseMaxHP: 100
+  probabliityToIncreaseMaxMP: 100
+  probabilityToIncreaseAgility: 20
+  probabilityToIncreasePower: 100
+  probabilityToIncreaseStrikingStrength: 100
+  probabilityToIncreaseMagicPower: 70
+  minHPRisingLimit: 30
+  minMPRisingLimit: 1
+  minAgilityRisingLimit: 1
+  minPowerRisingLimit: 3
+  minStrikingStrengthRisingLimit: 3
+  minMagicPowerRisingLimit: 1
+  maxHPRisingLimit: 50
+  maxMPRisingLimit: 50
+  maxAgilityRisingLimit: 1
+  maxPowerRisingLimit: 5
+  maxStrikingStrengthRisingLimit: 4
+  maxMagicPowerRisingLimit: 1

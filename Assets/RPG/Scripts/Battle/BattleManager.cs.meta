@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c6b39b16b447dc14ba3669b88fbfefa7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - battleData: {fileID: 11400000, guid: 2fba599e0715b1b4d94dae1149606e43, type: 2}
+  - battleBasePosition: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

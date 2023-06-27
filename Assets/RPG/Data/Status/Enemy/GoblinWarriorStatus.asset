@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23da919f5e433094fa16e32407b6ffef, type: 3}
+  m_Name: GoblinWarriorStatus
+  m_EditorClassIdentifier: 
+  characterName: "\u30B4\u30D6\u30EA\u30F3\u30A6\u30A9\u30FC\u30EA\u30A2"
+  isPoisonState: 0
+  isNumbnessState: 0
+  level: 1
+  maxHp: 200
+  hp: 200
+  maxMp: 50
+  mp: 50
+  agility: 40
+  power: 30
+  strikingStrength: 10
+  magicPower: 10
+  skillList:
+  - {fileID: 11400000, guid: ba1f161796a6fa9448e0993e3a470274, type: 2}
+  - {fileID: 11400000, guid: 72448c2cf0487a0409858d3453d7311c, type: 2}
+  gettingExperience: 50
+  gettingMoney: 50
+  dropItemDictionary:
+    m_keys:
+    - {fileID: 11400000, guid: b220c356493414e4fbb3223f514a52a3, type: 2}
+    - {fileID: 11400000, guid: 9a9520471de875041b668200cf0b96f5, type: 2}
+    m_values: 5000000005000000

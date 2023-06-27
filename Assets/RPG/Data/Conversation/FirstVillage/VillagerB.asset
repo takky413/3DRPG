@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d923f658b660e5e4b84648502bb116ca, type: 3}
+  m_Name: VillagerB
+  m_EditorClassIdentifier: 
+  message: "\u3084\u3042\uFF01\u50D5\u306F\u6751\u4EBAB\u3060\u3088\u3002\r\n\r\n\u65E9\u53E3\u8A00\u8449\u304C\u5F97\u610F\u306A\u3093\u3060\u3002\r\n\r\n\u805E\u3044\u3066\u304F\u308C\uFF01\r\n<>\r\n\r\n\u751F\u9EA6\u751F\u7C73\u751F\u5375\u3001\u96A3\u306E\u5BA2\u306F\u3088\u304F\u67FF\u98DF\u3046\u5BA2\u3060\u3001\u8D64\u5DFB\u4E0A\u9752\u5DFB\u7D19\u9EC4\u5DFB\u7D19\u3001\r\n\u574A\u4E3B\u304C\u5C4F\u98A8\u306B\u4E0A\u624B\u306B\u30B8\u30E7\u30FC\u30BA\u306E\u7D75\u3092\u63CF\u3044\u305F\u3002\r\n<>\r\n\r\n\u3069\u3046\u3060\u3001\u3059\u3054\u3044\u3060\u308D\uFF1F\r\n\r\n\u3048\uFF1F\u3000\u5927\u3057\u305F\u3053\u3068\u306A\u3044\uFF1F\u3000\u305D\u3093\u306A\u3053\u3068\u8A00\u3046\u306A\u3088\u30FB\u30FB\u30FB\u3002"

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/RPG/Scenes/ShootingWorldMap.unity
+    guid: 59fdf4acf0811f14fbd7762a84824842
+  - enabled: 1
+    path: Assets/RPG/Scenes/ShootingWorldMap2.unity
+    guid: 8f46e755e0412a44488e5dcedd16088c
+  - enabled: 1
+    path: Assets/RPG/Scenes/ShootingMap3.unity
+    guid: e56f3aa540aef9f4d93c5ce2f4fddbb7
+  - enabled: 1
+    path: Assets/RPG/Scenes/Title.unity
+    guid: 7e3a9c791156e3e47a35dfc9f057ba43
+  - enabled: 1
+    path: Assets/RPG/Scenes/Village.unity
+    guid: c22f9167ebde113499a6d7455f78a014
+  - enabled: 1
+    path: Assets/RPG/Scenes/WorldMap.unity
+    guid: b9f82ae712898d149b11a4ff95a11824
+  - enabled: 1
+    path: Assets/RPG/Scenes/Battle.unity
+    guid: 11ae7c4f544416d49a7603f25d489b70
+  m_configObjects: {}
